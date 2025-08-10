@@ -8,7 +8,7 @@
 - 🔭 Working on: **BestPlaylist**
 - 🌱 Learning: **Golang** & **React**
 - 💡 Interested in scalable backend systems and AI
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+- 📫 Reach me at: [your.email@example.com](mailto:parsa.ahmaripour@gmail.com)
 
 ---
 
