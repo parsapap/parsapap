@@ -1,6 +1,6 @@
 # Hi, I'm Parsa Ahmaripour 👋
 
-**Backend Developer** | Python & Golang Enthusiast
+**FullStack Developer** | Python & Golang Enthusiast
 
 ---
 
@@ -13,7 +13,7 @@
 ---
 
 ### Tech I Use
-Python · Django · Golang · PostgreSQL · JavaScript
+Python · Django · Golang · PostgreSQL · JavaScript · React
 
 ---
 
